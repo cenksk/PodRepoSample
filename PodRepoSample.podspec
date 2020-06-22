@@ -5,6 +5,7 @@ Pod::Spec.new do |s|
     s.description      = <<-DESC 
     This highletbale view changes highlet text and makes your app look fantastic!
     DESC
+    s.swift_version      = '5'
     
     s.homepage         = 'https://github.com/cenksk/PodRepoSample'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
